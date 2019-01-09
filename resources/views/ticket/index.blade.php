@@ -19,7 +19,7 @@
     <table class="table table-striped">
             <thead>
             <tr>
-              <td>ID</td>
+              <td>Ticket ID</td>
               <td>Title</td>
               <td>Description</td>
               <td colspan="2">Action</td>
