@@ -19,9 +19,9 @@
     <table class="table table-striped">
             <thead>
             <tr>
-              <td>Ticket ID</td>
-              <td>Title</td>
-              <td>Description</td>
+              <td>Ticket IDddd  d</td>
+              <td>Name</td>
+              <td>Description Detail of shoping_1</td>
               <td colspan="2">Action</td>
             </tr>
         </thead>
