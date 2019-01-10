@@ -22,7 +22,7 @@
               <td>Ticket IDddd  d</td>
               <td>Name</td>
               <td>Description Detail of shoping_1</td>
-              <td colspan="2">Action</td>
+              <td colspan="2">Actionnnnn</td>
             </tr>
         </thead>
         <tbody>
